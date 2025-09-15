@@ -1,0 +1,24 @@
+fx_l 10
+fx_r 10
+
+amf_l 10
+amf_r 10
+uf_l 10
+uf_r 10
+
+StB_motor_l 10
+StB_motor_r 10
+MB_r 10
+MB_l 10
+EmC_frontal_l 10
+EmC_frontal_r 10
+StB_frontal_l 10
+StB_frontal__r 10
+StB_temporal_l 10
+StB_temporal_r 10
+StB_parietal_l 10
+StB_parietal_r 10
+EmC_temporal_l 10
+EmC_temporal_r 10
+EmC_parietal_l 10
+EmC_parietal_r 10
